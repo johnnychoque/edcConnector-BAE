@@ -1,5 +1,7 @@
 # EDC connector used in FIWARE BAE
 
+[![DOI](https://zenodo.org/badge/911153287.svg)](https://doi.org/10.5281/zenodo.14796990)
+
 This repository contains the EDC connector used for the integration of the dataspaces into the FIWARE BAE marketplace. The implemented connector is based on the code provided in the Eclipse EDC [Transfer Samples repository](https://github.com/eclipse-edc/Samples/blob/main/transfer). It only focuses on the **Consumer Pull** use case, so all other code not related to that use case has been removed.
 
 ## Connector extension
